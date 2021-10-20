@@ -6,8 +6,10 @@
 
 ![addbranch](https://user-images.githubusercontent.com/37118134/136855318-d1d393e9-d367-42e8-80d7-4e966ed52316.jpg)
 
-3. when you are done creating the branch. you can start making your contributions.
+3. when you are done creating the branch, you can start making your contributions.
 
 ![branch](https://user-images.githubusercontent.com/37118134/136855314-293987c9-9b2c-427f-a7a2-ff92df68a69e.jpg)
+
+4. when you are done making your contributions, you can now make a pull request.
 
 If you are having any dificulty, check this article: https://codesandbox.io/post/how-to-make-your-first-open-source-contribution
